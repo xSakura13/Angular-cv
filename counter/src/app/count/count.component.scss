@@ -1,0 +1,13 @@
+p{
+  padding-top: 10vh;
+  text-align: center;
+  font-size: 30px;
+}
+.wrapper{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  button{
+    padding: 10px 30px;
+  }
+}
